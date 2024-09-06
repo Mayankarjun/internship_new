@@ -1,0 +1,8 @@
+Disadvantages of Flutter
+1. Limited Third-Party Libraries
+
+While Flutter has a growing number of packages and plugins available, the framework is still relatively new, and the number of third-party libraries available for it is limited compared to more established frameworks such as React Native.
+
+2. Steep Learning Curve
+
+The Dart programming language used by Flutter can be challenging for some developers, and there may be a steep learning curve for those who are not already familiar with it.
